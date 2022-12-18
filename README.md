@@ -690,7 +690,7 @@ Colab is a free hosted Jupyter notebook with access to GPU, you can examine and 
 
 Download the files with:
 ```
-git clone https://github.com/jinglescode/time-series-forecasting-pytorch.git
+git clone https://github.com/haulth/lstm.git
 ```
 
 Then, you can install all the packages used in this project with:
